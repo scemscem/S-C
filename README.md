@@ -1,2 +1,2 @@
 # S-C
-it's a simple exercise of physical computing. 
+it's a simple exercise of the course physical computing. 
